@@ -1,0 +1,24 @@
+{
+  "defaults": {
+    "courtCode": "ZZ",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "EDWARD D HODGE(16847)",
+    "judgeEventRoom": "JUVOFF",
+    "bondAmount": 50000,
+    "bondAmountFormat": "50,000.00",
+    "bondPercentage": 10,
+    "bondAmountPercentage": "5,000.00",
+    "bondIdentifierNo": 1001,
+    "firstBondType": 1402,
+    "firstBondAmountTendered": 1000,
+    "secondBondType": 1400,
+    "secondBondAmountTendered": 4000
+  },
+  "scenario1": {
+    "caseType": "M3",
+    "charge": "252.040-006N201962.0",
+    "nonConservationTicket": false
+  }
+}

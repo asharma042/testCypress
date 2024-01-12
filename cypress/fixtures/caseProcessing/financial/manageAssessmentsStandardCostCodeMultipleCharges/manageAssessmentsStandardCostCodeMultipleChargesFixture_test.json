@@ -1,0 +1,71 @@
+{
+  "defaults": {
+    "court": "Osage County - 20th Judicial Circuit",
+    "courtLocation": "osage county",
+    "courtCode": "OS",
+    "caseType": "M1",
+    "charge": "302.170-003Y202073.0",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "Cypress Pa",
+    "caseJudgeAssignment": "Cypress",
+    "fineAmount": "100",
+    "amountToCollect": "188.50",
+    "judgeEventRoom": "CRTRM",
+    "manageAssessmentsCosts": 3
+  },
+  "scenario1": {
+    "courtCostsBalanceDue": "286.50",
+    "pendingCostsLength": 4,
+    "docketCode": "XFRTC",
+    "caseType": "F2",
+    "counts": {
+      "first": {
+        "charge": "304.010-003N199954.0",
+        "nonConservationTicket": true,
+        "plea": "ddgtp-guilty plea",
+        "fineAmount": "10.00",
+        "fineAmountLength": "1",
+        "chargeDesc": "-4110001:Take Wildlife By Molesting A Nest, Den, Home, Eggs Of Wildlife",
+        "drivingSpeed": 66,
+        "postedSpeed": 60,
+        "amendedCharge": "307.170-002N199654.0",
+        "amendedChargeDesc": "Failed To Equip Veh With Muffler/Adequate Muffler/Properly Attached Muffler - IN"
+      },
+      "second": {
+        "charge": "304.016-007N197554.0",
+        "nonConservationTicket": true,
+        "plea": "ddgtp-guilty plea",
+        "fineAmount": "60.50",
+        "fineAmountLength": "1",
+        "chargeDesc": "-4110001:Take Wildlife By Molesting A Nest, Den, Home, Eggs Of Wildlife"
+      }
+    }
+  },
+  "scenario2": {
+    "courtCostsBalanceDue": "278.50",
+    "pendingCostsLength": 2,
+    "docketCode": "XFRTC",
+    "caseType": "F2",
+    "counts": {
+      "first": {
+        "charge": "577.010-019Y202054.0",
+        "nonConservationTicket": true,
+        "plea": "ddgtp-guilty plea",
+        "fineAmount": "10.00",
+        "fineAmountLength": "1",
+        "chargeDesc": "-Dwi - Habitual"
+      },
+      "second": {
+        "charge": "304.010-002N199954.0",
+        "nonConservationTicket": true,
+        "plea": "ddgtp-guilty plea",
+        "fineAmount": "60.50",
+        "fineAmountLength": "1",
+        "chargeDesc": "-Exceeded Posted Speed Limit (Exceeded By 1 - 5 Mph)",
+        "drivingSpeed": 50,
+        "postedSpeed": 45
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "scenario1": {
+    "court": "TRAINING County - 99th Judicial Circuit",
+    "courtCode": "ZZ",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "caseFilingDate": "04/20/2015",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "NASREEN ESMAIL ENGLE -42146",
+    "attorneyStreetAddress": "DIV OF WORKERS COMP",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "16847",
+    "judgeName": "EDWARD D HODGE",
+    "judgeRoom": "JUVOF",
+    "judgeRoomLocation": "Juvenile Office",
+    "eventDescription": "CREV",
+    "listName": "testCase1",
+    "template": "OFNG"
+  }
+}

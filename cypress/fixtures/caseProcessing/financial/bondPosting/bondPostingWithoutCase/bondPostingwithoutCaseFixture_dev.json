@@ -1,0 +1,14 @@
+{
+  "defaults": {
+    "courtCode": "AK",
+    "bondAmount": 50000,
+    "bondAmountFormat": "50,000.00",
+    "bondPercentage": 10,
+    "bondAmountPercentage": "5,000.00",
+    "bondIdentifierNo": 1001,
+    "firstBondType": 1402,
+    "firstBondAmountTendered": 1000,
+    "secondBondType": 1400,
+    "secondBondAmountTendered": 4000
+  }
+}

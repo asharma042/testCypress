@@ -1,0 +1,50 @@
+{
+  "scenario1": {
+    "court": "Franklin County - 20th Judicial Circuit",
+    "courtCode": "AB Franklin County",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "CYPRESS  PA -42146",
+    "attorneyStreetAddress": "123 MAIN ST",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "76768",
+    "judgeName": "CYPRESS JUDGE",
+    "judgeRoom": "CRTRM",
+    "judgeRoomLocation": "City of New Haven",
+    "eventDescription": "CREV",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "123 MAPLE STREET",
+        "city": "SULLIVAN",
+        "state": "MO",
+        "zip": "63080"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "123 MAPLE STREET",
+        "city": "SULLIVAN",
+        "state": "MO",
+        "zip": "63080"
+      }
+    ]
+  }
+}

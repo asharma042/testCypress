@@ -1,0 +1,60 @@
+{
+  "scenario1": {
+    "court": "Franklin County - 20th Judicial Circuit",
+    "courtCode": "AB Franklin County",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "CYPRESS  PA -42146",
+    "attorneyStreetAddress": "123 MAIN ST",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "76768",
+    "judgeName": "CYPRESS JUDGE",
+    "judgeRoom": "CRTRM",
+    "judgeRoomLocation": "City of New Haven",
+    "eventDescription": "CREV",
+    "eventOutcome": "HRCAN-HEARING/TRIAL CANCELLED",
+    "judgmentMonetary_nonMonetory": "Monetary",
+    "amount": 150.0,
+    "judgmentDescription": "JCLAM",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "defaultPartyDispositionInputValue": "DTRCT - Tried by Court-Civil",
+        "disposition": "DTRCT",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "1000 MAIN ST",
+        "city": "JEFFERSON CITY",
+        "state": "MO",
+        "zip": "65101",
+        "judgment": "Judgment For"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "defaultPartyDispositionInputValue": "DUNCO - Uncontested",
+        "disposition": "DUNCO",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "1000 MAIN ST",
+        "city": "JEFFERSON CITY",
+        "state": "MO",
+        "zip": "65101",
+        "judgment": "Judgment Against"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "scenario1": {
+    "courtCode": "AK Carter",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "NASREEN ESMAIL ENGLE -42146",
+    "attorneyStreetAddress": "DIV OF WORKERS COMP",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "31488",
+    "judgeName": "BRADFORD EDWIN ELLSWORTH",
+    "judgeRoom": "HEDSP",
+    "judgeRoomLocation": "Carter",
+    "eventDescription": "CREV",
+    "eventRoom": "Carter",
+    "eventLocation": "AK - Carter",
+    "defaultPartyDispositionInputValue": "DJV - Jury Verdict - Civil",
+    "disposition": "DJV",
+    "eventOutcome": "HRCAN-HEARING/TRIAL CANCELLED",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "addressType": "MA",
+        "street": "123 MAIN ST",
+        "city": "JC",
+        "state": "MO",
+        "zip": "65109"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "addressType": "MA",
+        "street": "123 MAIN ST",
+        "city": "JC",
+        "state": "MO",
+        "zip": "65109"
+      }
+    ]
+  }
+}

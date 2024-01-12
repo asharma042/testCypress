@@ -1,0 +1,11 @@
+{
+  "defaults": {
+    "court": "Osage County - 20th Judicial Circuit",
+    "courtLocation": "osage county",
+    "courtCode": "OS",
+    "arrestingAgencyORI": "MO0140800",
+    "updateCourtCode": "E1",
+    "updateCourtLocation": "SLC Division 7 Room 562",
+    "updateArrestingAgencyORI": "MOMHP0000"
+  }
+}

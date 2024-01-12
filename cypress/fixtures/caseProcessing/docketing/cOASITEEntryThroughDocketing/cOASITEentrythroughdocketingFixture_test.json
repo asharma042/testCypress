@@ -1,0 +1,20 @@
+{
+  "defaults": {
+    "courtCode": "OS",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "Cypress Pa",
+    "caseJudgeAssignment": "Cypress",
+    "judgeEventRoom": "CRTRM",
+    "partyDescription": "ADFT",
+    "attorneyForDefendantName": "48711"
+  },
+  "scenario1": {
+    "caseType": "M1",
+    "charge": "302.170-003Y202073.0",
+    "nonConservationTicket": false,
+    "docketDescription": "FFILM",
+    "filmNumber": "100",
+    "footage": "Tom and Jerry"
+  }
+}

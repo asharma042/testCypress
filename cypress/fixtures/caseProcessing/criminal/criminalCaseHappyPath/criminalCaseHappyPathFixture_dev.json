@@ -1,0 +1,16 @@
+{
+  "defaults": {
+    "courtCode": "AK",
+    "caseType": "M1",
+    "charge": "302.170-003Y202073.0",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "BRADFORD EDWIN ELLSWORTH",
+    "fineAmount": "100",
+    "fineAmountLength": "2",
+    "amountToCollect": "194.50",
+    "judgeEventRoom": "HEDSP",
+    "manageAssessmentsCosts": "4"
+  }
+}

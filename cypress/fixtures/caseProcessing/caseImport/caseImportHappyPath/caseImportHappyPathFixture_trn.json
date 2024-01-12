@@ -1,0 +1,23 @@
+{
+  "scenario1": {
+    "filingLocation": "ZZ",
+    "filingLocationDesc": "CIRCUIT TRAINING LOCATION",
+    "agency": "MO0140800",
+    "charge": "577.010-019Y202054.0",
+    "documentCategory": "Complaint Filed",
+    "docketCode": "ACOMP",
+    "docketCodeDescription": "ACOMP - Complaint Filed",
+    "docketSequence": "1",
+    "caseType": "F2",
+    "milestone": "Nothing selected",
+    "caseSecurity": "1 - Public",
+    "filedBy": "Cynthia Ann Quetsch",
+    "documentNumber": "1",
+    "documentTitle": "TestDocument",
+    "judgeSearch": "HODGE",
+    "judge": "EDWARD D HODGE(16847)",
+    "eventDescription": "SCIR",
+    "room": "JUVOFF",
+    "roomLocation": "Juvenile Office"
+  }
+}

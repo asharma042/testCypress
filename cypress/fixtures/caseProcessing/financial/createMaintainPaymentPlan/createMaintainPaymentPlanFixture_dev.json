@@ -1,0 +1,22 @@
+{
+  "defaults": {
+    "courtCode": "AK",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "BRADFORD EDWIN ELLSWORTH",
+    "judgeEventRoom": "HEDSP"
+  },
+  "scenario1": {
+    "caseType": "M3",
+    "charge": "252.040-006N201962.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.00",
+    "chargeDesc": "-4110011:Import, Transport, Sell, Purchase, Take Or Possess Black Bear/Elk/Parts Inconsistent With Rules Of The Code"
+  },
+  "scenario3": {
+    "newPaymentAmount": 5,
+    "installmentAmount": 10
+  }
+}

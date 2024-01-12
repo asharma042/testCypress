@@ -1,0 +1,31 @@
+{
+  "defaults": {
+    "courtCode": "DA",
+    "caseType": "M1",
+    "charge": "302.170-003Y202073.0",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "Cody A Hanna",
+    "fineAmount": "100",
+    "amountToCollect": "100.00",
+    "judgeEventRoom": "CRTRM",
+    "manageAssessmentsCosts": 2
+  },
+  "scenario1": {
+    "caseType": "M3",
+    "charge": "252.040-006N201962.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.00",
+    "fineAmountLength": "1",
+    "chargeDesc": "-4110011:Import, Transport, Sell, Purchase, Take Or Possess Black Bear/Elk/Parts Inconsistent With Rules Of The Code",
+    "docketCode": "XCM10",
+    "courtCostsBalanceDue": "92.50",
+    "pendingCostsLength": 4
+  },
+  "scenario3": {
+    "newPaymentAmount": 5,
+    "installmentAmount": 10
+  }
+}

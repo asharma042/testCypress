@@ -1,0 +1,7 @@
+**.feature
+reports/
+node_modules/
+.git
+package-lock.json
+cypress/hars/*.har
+!cypress/hars/.gitkeep

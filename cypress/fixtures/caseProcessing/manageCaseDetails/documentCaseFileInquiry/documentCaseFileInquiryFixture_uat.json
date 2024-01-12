@@ -1,0 +1,16 @@
+{
+  "defaults": {
+    "courtCode": "DA",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "Cody A Hanna",
+    "judgeEventRoom": "CRTRM",
+    "fileLocation": "JACK"
+  },
+  "scenario1": {
+    "caseType": "M1",
+    "charge": "302.170-003Y202073.0",
+    "nonConservationTicket": false
+  }
+}

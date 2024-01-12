@@ -1,0 +1,27 @@
+cypress.env.json
+cypress.env.local.json
+cucumber-json
+node_modules/
+videos/
+screenshots/
+**.temp.*
+**.xls
+sqlnet.log
+cucumber-report.json
+cypress-reports
+differences/
+# exclude everything
+cypress/hars/
+
+# exception to the rule
+!cypress/hars/.gitkeep
+
+#report stuff
+reports/
+
+cypress/downloads/*.pdf
+cypress/downloads/*.doc
+!cypress/downloads/.gitkeep
+
+**.csv
+

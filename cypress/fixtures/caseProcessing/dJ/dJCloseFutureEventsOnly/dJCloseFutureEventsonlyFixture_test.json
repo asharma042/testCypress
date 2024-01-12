@@ -1,0 +1,52 @@
+{
+  "scenario1": {
+    "courtCode": "OS Osage County",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "CYPRESS  PA -42146",
+    "attorneyStreetAddress": "123 MAIN ST.",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "76768",
+    "judgeName": "CYPRESS JUDGE",
+    "judgeRoom": "CRTRM",
+    "judgeRoomLocation": "Gasconade Municipal",
+    "eventDescription": "CREV",
+    "eventRoom": "Municipal courtroom+e",
+    "eventLocation": "+E - Gasconade Municipal",
+    "defaultPartyDispositionInputValue": "DJV - Jury Verdict - Civil",
+    "disposition": "DJV",
+    "eventOutcome": "HRCAN-HEARING/TRIAL CANCELLED",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "addressType": "MA",
+        "street": "1000 MAIN ST",
+        "city": "JEFFERSON CITY",
+        "state": "MO",
+        "zip": "65101"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "addressType": "MA",
+        "street": "1000 MAIN ST",
+        "city": "JEFFERSON CITY",
+        "state": "MO",
+        "zip": "65101"
+      }
+    ]
+  }
+}

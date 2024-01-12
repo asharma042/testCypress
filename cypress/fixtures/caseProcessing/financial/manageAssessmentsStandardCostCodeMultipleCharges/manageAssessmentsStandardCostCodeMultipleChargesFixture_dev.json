@@ -1,0 +1,37 @@
+{
+  "defaults": {
+    "courtCode": "AK",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "BRADFORD EDWIN ELLSWORTH",
+    "judgeEventRoom": "HEDSP"
+  },
+  "scenario1": {},
+  "scenario2": {
+    "courtCostsBalanceDue": "284.50",
+    "pendingCostsLength": 3,
+    "docketCode": "XFRTC",
+    "caseType": "F2",
+    "counts": {
+      "first": {
+        "charge": "577.010-019Y202054.0",
+        "nonConservationTicket": true,
+        "plea": "ddgtp-guilty plea",
+        "fineAmount": "10.00",
+        "fineAmountLength": "1",
+        "chargeDesc": "-Dwi - Habitual"
+      },
+      "second": {
+        "charge": "304.010-002N199954.0",
+        "nonConservationTicket": true,
+        "plea": "ddgtp-guilty plea",
+        "fineAmount": "60.50",
+        "fineAmountLength": "1",
+        "chargeDesc": "-Exceeded Posted Speed Limit (Exceeded By 1 - 5 Mph)",
+        "drivingSpeed": 50,
+        "postedSpeed": 45
+      }
+    }
+  }
+}

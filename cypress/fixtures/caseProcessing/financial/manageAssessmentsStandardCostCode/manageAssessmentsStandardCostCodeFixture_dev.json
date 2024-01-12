@@ -1,0 +1,84 @@
+{
+  "defaults": {
+    "courtCode": "AK",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "BRADFORD EDWIN ELLSWORTH",
+    "judgeEventRoom": "HEDSP"
+  },
+  "scenario1": {
+    "caseType": "M3",
+    "charge": "252.040-006N201962.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.00",
+    "fineAmountLength": "1",
+    "chargeDesc": "-4110011:Import, Transport, Sell, Purchase, Take Or Possess Black Bear/Elk/Parts Inconsistent With Rules Of The Code",
+    "docketCode": "XCM10",
+    "courtCostsBalanceDue": "92.50",
+    "pendingCostsLength": 4
+  },
+  "scenario2": {
+    "caseType": "F2",
+    "charge": "338.195-001Y202055.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.00",
+    "fineAmountLength": "1",
+    "chargeDesc": "-Violation Of Pharmacy Law By Non-Licensed Person",
+    "docketCode": "XFRTC",
+    "courtCostsBalanceDue": "284.50",
+    "pendingCostsLength": 3
+  },
+  "scenario3": {
+    "caseType": "F2",
+    "charge": "105.453-001Y202073.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "",
+    "fineAmountLength": "",
+    "chargeDesc": "-Accept/Receive Compensation As Paid Political Consultant - 2nd Or Subsequent Offense",
+    "docketCode": "XFSIS",
+    "courtCostsBalanceDue": "284.50",
+    "pendingCostsLength": 3,
+    "probationDuration": 15,
+    "probationType": "Months"
+  },
+  "scenario4": {
+    "caseType": "I3",
+    "charge": "544.665-003N202050.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.",
+    "fineAmountLength": "1",
+    "chargeDesc": "-Failure To Appear - Infraction/Municipal Ordinance",
+    "docketCode": "XCINO",
+    "courtCostsBalanceDue": "65.50",
+    "pendingCostsLength": 4
+  },
+  "scenario5": {
+    "caseType": "M2",
+    "charge": "304.301-002N199654.0",
+    "nonConservationTicket": true,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "",
+    "fineAmountLength": "",
+    "chargeDesc": "-Fail To Proceed With Caution Past A Flashing Yellow Signal",
+    "docketCode": "XIPVT",
+    "courtCostsBalanceDue": "67.50",
+    "pendingCostsLength": 3
+  },
+  "scenario6": {
+    "caseType": "M2",
+    "charge": "252.040-001N201962.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.00",
+    "fineAmountLength": "1",
+    "chargeDesc": "-4110001:Take Wildlife By Molesting A Nest, Den, Home, Eggs Of Wildlife",
+    "docketCode": "XCM10",
+    "courtCostsBalanceDue": "92.50",
+    "pendingCostsLength": 4
+  }
+}

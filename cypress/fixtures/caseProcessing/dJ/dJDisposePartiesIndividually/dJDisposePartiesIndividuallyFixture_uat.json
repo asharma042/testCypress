@@ -1,0 +1,61 @@
+{
+  "scenario1": {
+    "courtCode": "H6",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "NASREEN ESMAIL ENGLE -42146",
+    "attorneyStreetAddress": "DIV OF WORKERS COMP",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "23987",
+    "judgeName": "CODY A HANNA",
+    "judgeRoom": "CRTRM",
+    "judgeRoomLocation": "Rogersville Municipal",
+    "eventDescription": "CREV",
+    "defaultPartyDispositionInputValue": "DJV - Jury Verdict - Civil",
+    "disposition": "DJV",
+    "eventOutcome": "HRCAN-HEARING/TRIAL CANCELLED",
+    "judgmentMonetary_nonMonetory": "Monetary",
+    "amount": 150.0,
+    "judgmentDescription": "JCLAM",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "defaultPartyDispositionInputValue": "DTRCT - Tried by Court-Civil",
+        "disposition": "DTRCT",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "200 MAIN STREET, BOONVILLE, MO 65233",
+        "city": "BOONVILLE",
+        "state": "MO",
+        "zip": "65233",
+        "judgment": "Judgment For"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "defaultPartyDispositionInputValue": "DUNCO - Uncontested",
+        "disposition": "DUNCO",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "200 MAIN STREET, BOONVILLE, MO 65233",
+        "city": "BOONVILLE",
+        "state": "MO",
+        "zip": "65233",
+        "judgment": "Judgment Against"
+      }
+    ]
+  }
+}

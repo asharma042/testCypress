@@ -1,0 +1,9 @@
+{
+  "defaults": {
+    "courtCode": "AK",
+    "arrestingAgencyORI": "MO0140800",
+    "updateCourtCode": "JW",
+    "updateCourtLocation": "howell county",
+    "updateArrestingAgencyORI": "MOMHP0000"
+  }
+}

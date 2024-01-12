@@ -1,0 +1,11 @@
+{
+  "defaults": {
+    "court": "Franklin County - 20th Judicial Circuit",
+    "courtLocation": "franklin county",
+    "courtCode": "AB",
+    "arrestingAgencyORI": "MO0140800",
+    "updateCourtCode": "E1",
+    "updateCourtLocation": "SLC Division 7 Room 562",
+    "updateArrestingAgencyORI": "MOMHP0000"
+  }
+}

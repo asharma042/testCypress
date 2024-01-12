@@ -1,0 +1,9 @@
+{
+  "defaults": {
+    "location": "AB - Franklin County",
+    "wildSearch": "XTRT%",
+    "feeDescription": "TR Costs Taxed (w/ sher)",
+    "feeCode": "3020",
+    "feeAmount": 25
+  }
+}

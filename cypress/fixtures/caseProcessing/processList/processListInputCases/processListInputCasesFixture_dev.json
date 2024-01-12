@@ -1,0 +1,29 @@
+{
+  "scenario1": {
+    "court": "Carter County - 37th Judicial Circuit Dev",
+    "courtCode": "AK Carter",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "caseFilingDate": "04/20/2015",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "31488",
+    "attorneyName": "BRADFORD EDWIN ELLSWORTH -31488",
+    "attorneyStreetAddress": "11946 HIGHWAY AD",
+    "attorneyCity": "MOUNTAIN GROVE",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "31488",
+    "judgeName": "BRADFORD EDWIN ELLSWORTH",
+    "judgeRoom": "HEDSP",
+    "judgeRoomLocation": "Carter",
+    "eventDescription": "CREV"
+  }
+}

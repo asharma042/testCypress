@@ -1,0 +1,51 @@
+{
+  "scenario1": {
+    "courtCode": "ZZ",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "NASREEN ESMAIL ENGLE -42146",
+    "attorneyStreetAddress": "DIV OF WORKERS COMP",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "16847",
+    "judgeName": "EDWARD D HODGE(16847)",
+    "judgeRoom": "JUVOFF",
+    "judgeRoomLocation": "Juvenile Office",
+    "eventDescription": "CREV",
+    "defaultPartyDispositionInputValue": "DJV - Jury Verdict - Civil",
+    "disposition": "DJV",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "200 MAIN STREET",
+        "city": "BOONVILLE",
+        "state": "MO",
+        "zip": "65233"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "200 MAIN STREET",
+        "city": "BOONVILLE",
+        "state": "MO",
+        "zip": "65233"
+      }
+    ]
+  }
+}

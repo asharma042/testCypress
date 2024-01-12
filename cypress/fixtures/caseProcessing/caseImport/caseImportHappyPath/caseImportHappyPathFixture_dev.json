@@ -1,0 +1,22 @@
+{
+  "scenario1": {
+    "filingLocation": "CARTER",
+    "filingLocationDesc": "Carter",
+    "agency": "MO0140800",
+    "charge": "565.020-001Y202009.1",
+    "documentCategory": "Complaint Filed",
+    "docketCodeDescription": "ACOMP - Complaint Filed",
+    "docketSequence": "1",
+    "caseType": "F2",
+    "milestone": "Nothing selected",
+    "caseSecurity": "1 - Public",
+    "filedBy": "Cynthia Ann Quetsch",
+    "documentNumber": "1",
+    "documentTitle": "TestDocument",
+    "judgeSearch": "BRADFORD EDWIN ELLSWORTH",
+    "judge": "BRADFORD EDWIN ELLSWORTH(31488)",
+    "eventDescription": "SCIR",
+    "room": "hedsp",
+    "roomLocation": "Carter"
+  }
+}

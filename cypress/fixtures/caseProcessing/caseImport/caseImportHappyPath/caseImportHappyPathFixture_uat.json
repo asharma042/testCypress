@@ -1,0 +1,23 @@
+{
+  "scenario1": {
+    "filingLocation": "DALLAS",
+    "filingLocationDesc": "DALLAS",
+    "agency": "MO0140800",
+    "charge": "577.010-019Y202054.0",
+    "documentCategory": "Complaint Filed",
+    "docketCode": "ACOMP",
+    "docketCodeDescription": "ACOMP - Complaint Filed",
+    "docketSequence": "1",
+    "caseType": "F2",
+    "milestone": "Nothing selected",
+    "caseSecurity": "1 - Public",
+    "filedBy": "Cynthia Ann Quetsch",
+    "documentNumber": "1",
+    "documentTitle": "TestDocument",
+    "judgeSearch": "Cody",
+    "judge": "CODY A HANNA(23987)",
+    "eventDescription": "SCIR",
+    "room": "CRTRM",
+    "roomLocation": "Rogersville Municipal"
+  }
+}

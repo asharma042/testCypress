@@ -1,0 +1,345 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Delete Existing Cases",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cypress\\scripts\\runDeleteExistingCases.js",
+      "args": ["dev"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Generate Charge Codes",
+      "skipFiles": ["<node_internals>/**"],
+      "program": "${workspaceFolder}\\cypress\\scripts\\GenerateChargeCodes.js",
+      "args": ["dev"]
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Create Criminal Case",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614531/Criminal%20Happy%20Pathy%20-%20Cypress%20Test%20Case.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CriminalCaseHappyPath.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Aged Trial Balance Report",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614031/AgedTrialBalanceReport%20Cypress%20Test%20Case.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\AgedTrialBalanceReport.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Manage Assessments Standard Cost Code",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614093/ManageAssessmentsStandardCostCode%20%281%29.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\ManageAssessmentsStandardCostCode.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Manage Assessments Standard Cost Code Multiple Charges",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614088/ManageAssessmentsStandardCostCodeMultipleCharges.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\ManageAssessmentsStandardCostCodeMultipleCharges.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Officer Setup",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614603/OfficerSetup.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\OfficerSetup.xls",
+        "Create Officer Setup"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Civil Enter a Case",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614507/Civil%20Enter%20A%20Case%20cypress.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CivilEnterACase.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Civil Case Add Party",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300616028/CivilCaseAddParty.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CivilCaseAddParty.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Case Type Docket Code",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300615891/CaseTypeDocketCodeProcessRules.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CaseTypeDocketCodeProcessRules.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Disp & Judgement",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/300614517/DispositionJudgment_JJN%20Revised.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\DispositionJudgment.xls",
+        "Happy Path"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "PA Portal",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/306419247/PA%20Portal%20Create%20Filing%20test%20plan.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\PAPortal.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Docketing",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/303006909/Docketing.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\Docketing.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "COASITE Happy Path ",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/303006909/Cypress%20COASITE%20test.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CoasiteHappyPath.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Case Import Happy Path",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/309428583/CaseImportTestCases.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CaseImportHappyPath.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "EFiling HP",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/319162404/efiling%20Happy%20Path%20-%20Cypress%20Test.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\eFiling.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "CaseNet EFiling",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/319162402/CaseNetHappyPath.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CaseNetHappyPath.xls",
+        "CASENET from efiling"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Bond Posting Without Case",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/309429479/Bond%20Posting%20Test%20Scripts.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\BondPosting.xls",
+        "Bond Posting without Case"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Create Maintain Payment Plan",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/309430749/Create%26Maintain%20Pymnt%20Plan.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\Createmaintain.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Document Generation",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/323227204/DocGen2.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\DocGen.xls",
+        "DocGen"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Process Lists",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/323224567/FinalCypressTestPlan.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\ProcessLists.xls",
+        "AddDocketEntry-SelectList"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Process Lists - Add Attorney",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/332333342/AddAttorneysRevise.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\AddJudicialOfficer.xls",
+        "IL-Disposed Case"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Receipt Payment",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/309430756/Receipt%20Payment%20Test%20Case.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\ReceiptPaymentTestCase.xlsx"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Standard Cost Fees",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/323228930/DocketFeesAssignmentProcessRules.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\DocketFeesAssignmentProcessRules.xlsx",
+        "Standard Cost Fees"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Subsequent Case",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/338886968/SubsequentCase.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\SubsequentCase.xls"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Bond Association",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/309429487/Bond%20Association%20Test%20Case.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\BondAssociationTestCase.xlsx",
+        "Bond Association"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Charge Code Case Generator",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/341180779/ChargeCodeCaseGenerator.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\ChargeCodeCaseGenerator.xlsx"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Arrest Query",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/309429877/Arrest%20Query.xls?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\ArrestQuery.xlsx",
+        "Happy Path"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Case File Transfer",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/313037200/Case%20File%20Transfer-Happy%20path.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CaseFileTransfer.xlsx",
+        "Happy Path"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Case File Inquiry",
+      "skipFiles": ["<node_internals>/**"],
+      "args": [
+        "https://intra/confluence/download/attachments/347439944/Case%20File%20Inquiry.xlsx?api=v2",
+        "${workspaceFolder}\\spreadSheets\\temp\\CaseFileInquiry.xlsx",
+        "Happy Path"
+      ],
+      "program": "${workspaceFolder}\\cypress\\scripts\\main.js"
+    }
+  ]
+}

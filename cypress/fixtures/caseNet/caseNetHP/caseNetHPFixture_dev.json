@@ -1,0 +1,56 @@
+{
+  "scenario1": {
+    "courtCode": "AK Carter",
+    "court": "Carter",
+    "courtValue": "Carter County - 36th Judicial Circuit",
+    "caseType": "CA",
+    "caseTypeDescription": "CC Breach of Contract",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "42146",
+    "attorneyName": "NASREEN ESMAIL ENGLE -42146",
+    "attorneyStreetAddress": "DIV OF WORKERS COMP",
+    "attorneyCity": "JEFFERSON CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "disposition": "Not Disposed",
+    "judgeMoBar": "31488",
+    "judgeName": "BRADFORD EDWIN ELLSWORTH",
+    "judgeRoom": "HEDSP",
+    "judgeRoomLocation": "Carter",
+    "eventDescription": "CREV",
+    "financialBalance": "98.50",
+    "parties": [
+      {
+        "descriptionCode": "PET",
+        "descriptionMeaning": "Petitioner",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "123 MAIN ST",
+        "city": "JC",
+        "state": "MO",
+        "zip": "65109",
+        "nation": "US"
+      },
+      {
+        "descriptionCode": "RES",
+        "descriptionMeaning": "Respondent",
+        "addressType": "MA",
+        "addressTypeDescription": "Mailing",
+        "street": "123 MAIN ST",
+        "city": "JC",
+        "state": "MO",
+        "zip": "65109",
+        "nation": "US"
+      }
+    ]
+  }
+}

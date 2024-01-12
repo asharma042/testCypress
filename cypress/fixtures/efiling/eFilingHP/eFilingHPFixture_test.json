@@ -1,0 +1,92 @@
+{
+  "defaults": {
+    "agency": "",
+    "filingLocation": "Franklin County",
+    "courtLocation": "Franklin County - Circuit Court",
+    "courtCode": "AB",
+    "caseCategory": "Civil - Associate/Chapter 517",
+    "caseCategoryCode": "CA",
+    "caseType": "Breach of Contract",
+    "caseTypeCode": "CM",
+    "caseSecurity": "1 - Public",
+    "milestone": "Nothing selected",
+    "styleOfCase": "EFiling v Case Import",
+    "feeAmount": "150",
+    "noteToClerk": "Please create summons",
+    "documentCategory": "FILED BY AFFIDAVIT",
+    "documentTitle": "Document Title",
+    "attorney": "PA Portal TEST",
+    "partyType": "APET",
+    "partyMobar": "33773",
+    "partyName": "Cynthia Ann Quetsch",
+    "judge": "CYPRESS  JUDGE(76768)",
+    "judgePartyType": "Judge",
+    "judgeMoBar": "76768",
+    "eventDescription": "CREV",
+    "eventRoom": "CTROOM",
+    "eventRoomLocation": "Franklin County",
+    "noteToFiler": "This is a note to the filer",
+    "documentType": {
+      "docketSequence1": "INITIATING/CHARGING",
+      "docketSequence2": "OTHER/MISCELLANEOUS LEVEL6",
+      "docketSequence3": "OTHER/MISCELLANEOUS LEVEL6"
+    },
+    "docketCode": {
+      "docketSequence1": "APTAC",
+      "docketSequence2": "NOTEF",
+      "docketSequence3": "FISEF"
+    },
+    "docketDescription": {
+      "docketSequence1": "Pet Filed in Associate Ct",
+      "docketSequence2": "Note to Clerk eFiling",
+      "docketSequence3": "Filing Info Sheet eFiling"
+    },
+    "security": {
+      "docketSequence1": "1 - Public",
+      "docketSequence2": "6 - Sealed - Court Staff Only",
+      "docketSequence3": "6 - Sealed - Court Staff Only"
+    },
+    "creditCard": {
+      "cardHolderName": "Card Holder Name",
+      "cardNumber": "4111111111111111",
+      "cvcCode": "1234",
+      "expirationDate": {
+        "month": "01",
+        "year": "2024"
+      }
+    },
+    "parties": [
+      {
+        "partyType": "Petitioner",
+        "partyTypeCode": "PET"
+      },
+      {
+        "partyType": "Respondent",
+        "partyTypeCode": "RES"
+      }
+    ],
+    "costAssessments": {
+      "lineItem": [
+        {
+          "priority": 16,
+          "detail": 3008,
+          "description": "Law Library",
+          "assessedAmount": 25.0,
+          "balance": 25.0
+        },
+        {
+          "priority": 10,
+          "detail": 3352,
+          "description": "Associate Civil Costs w/o SRF",
+          "assessedAmount": 33.5,
+          "balance": 33.5
+        }
+      ],
+      "total": {
+        "assessedAmount": 58.5,
+        "balance": 58.5,
+        "amountToApply": 0.0
+      }
+    }
+  }
+}

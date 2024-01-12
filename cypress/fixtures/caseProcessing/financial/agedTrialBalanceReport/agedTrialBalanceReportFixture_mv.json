@@ -1,0 +1,120 @@
+{
+  "defaults": {
+    "court": "Franklin County - 20th Judicial Circuit",
+    "courtLocation": "franklin county",
+    "courtLocationTitle": "AB - Franklin County",
+    "courtLocationCode": "AB",
+    "circuitNumber": "20",
+    "courtLocationOther": "E5 - Associate Div VI Franklin",
+    "courtLocationOtherCode": "E5",
+    "detailCode": "3300",
+    "caseId": "0000097823"
+  },
+  "reportDisplaysADetailedReportShowingCashAndAccrualForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationCode>"
+  },
+
+  "reportDisplaysADetailedReportShowingCashMethodForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "C"
+  },
+
+  "reportDisplaysADetailedReportShowingCashMethodForASpecificDetailCodeForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "C",
+    "detailCode": "<detailCode>"
+  },
+
+  "reportDisplaysADetailedReportShowingCashMethodForASpecificCaseForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "accountingMethod": "C",
+    "courtLocation": "<courtLocationCode>",
+    "caseId": "<caseId>"
+  },
+  "reportDisplaysADetailedReportShowingAccrualMethodForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "A"
+  },
+  "reportDisplaysDetailReportForCashAndAndDetailCodeAndCaseIdForTheSelectedCourtLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationOtherCode>",
+    "accountingMethod": "C",
+    "detailCode": "<detailCode>",
+    "caseId": "<caseId>"
+  },
+  "reportDisplaysADetailedReportForAccrualMethodForASpecificDetailCodeForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "A"
+  },
+  "reportDisplaysAccrualMethodForASpecificCaseIDForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "D",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "A"
+  },
+  "reportDisplaysSummaryReportForSelectedCourtLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationOtherCode>"
+  },
+  "reportDisplaysASummaryReportShowingCashMethodForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "C"
+  },
+  "reportDisplaysASummaryReportShowingCashMethodForASpecificDetailCodeForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationCode>",
+    "detailCode": "<detailCode>",
+    "accountingMethod": "C"
+  },
+  "reportDisplaysASummaryReportShowingCashMethodForASpecificCaseForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "C",
+    "caseId": "<caseId>"
+  },
+  "reportDisplaysASummaryReportShowingAccrualMethodForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "A"
+  },
+  "reportDisplaysASummaryReportShowingAccrualMethodForASpecificDetailCodeForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "A",
+    "detailCode": "<detailCode>"
+  },
+  "reportDisplaysASummaryReportShowingAccrualForACaseIdForTheDefaultLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationCode>",
+    "accountingMethod": "A",
+    "caseId": "<caseId>"
+  },
+  "reportDisplaysASummaryReportForAccuralAndDetailCodeAndCaseIdForTheSelectedLocation": {
+    "circuitNumber": "<circuitNumber>",
+    "summaryDetailCode": "S",
+    "courtLocation": "<courtLocationOtherCode>",
+    "accountingMethod": "A",
+    "detailCode": "<detailCode>",
+    "caseId": "<caseId>"
+  }
+}

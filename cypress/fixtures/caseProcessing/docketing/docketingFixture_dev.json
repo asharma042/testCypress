@@ -1,0 +1,33 @@
+{
+  "scenario1": {
+    "courtCode": "AK Carter",
+    "caseType": "CA",
+    "agency": "MO0140800",
+    "agencyValue": "MO0140800 - LAKE MYKEE PD",
+    "milestone": "",
+    "styleOfCase": "Sams vs Jone",
+    "initiating": false,
+    "responding": false,
+    "caseSecurity": "1",
+    "caseSecuritySelected": "1 - Public",
+    "reason": "",
+    "partyDescription": "APET",
+    "attorneyMoBar": "23451",
+    "attorneyName": "STEPHEN H DICUS -23451",
+    "attorneyStreetAddress": "801 W 47TH ST",
+    "attorneyCity": "KANSAS CITY",
+    "docketCode": "APTCC PET FILED",
+    "docketSequence": "1",
+    "judgeMoBar": "31488",
+    "judgeName": "BRADFORD EDWIN ELLSWORTH",
+    "judgeRoom": "HEDSP",
+    "judgeRoomLocation": "Carter",
+    "eventDescription": "CREV",
+    "docketDescription": "BREF",
+    "filingParty": "STEPHEN H DICUS (23451)  (APET )",
+    "filingOBOParty": "STEPHEN H DICUS (23451)  (APET )",
+    "addDocketText": "Add Docket Text",
+    "updateDocketText": "Update Docket Text",
+    "reasonDescription": "ERR - Entered in Error"
+  }
+}

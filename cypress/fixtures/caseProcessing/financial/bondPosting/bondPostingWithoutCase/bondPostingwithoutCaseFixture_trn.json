@@ -1,0 +1,36 @@
+{
+  "defaults": {
+    "courtCode": "ZZ",
+    "caseType": "M1",
+    "charge": "302.170-003Y202073.0",
+    "arrestingAgencyORI": "MO0140800",
+    "prosecutingAttorneyCode": "42146",
+    "prosecutingAttorneyName": "NASREEN ESMAIL ENGLE",
+    "caseJudgeAssignment": "EDWARD D HODGE(16847)",
+    "fineAmount": "100",
+    "amountToCollect": "100.00",
+    "judgeEventRoom": "JUVOFF",
+    "manageAssessmentsCosts": 2,
+    "bondAmount": 50000,
+    "bondAmountFormat": "50,000.00",
+    "bondPercentage": 10,
+    "bondAmountPercentage": "5,000.00",
+    "bondIdentifierNo": 1001,
+    "firstBondType": 1402,
+    "firstBondAmountTendered": 1000,
+    "secondBondType": 1400,
+    "secondBondAmountTendered": 4000
+  },
+  "scenario1": {
+    "caseType": "M3",
+    "charge": "252.040-006N201962.0",
+    "nonConservationTicket": false,
+    "plea": "ddgtp-guilty plea",
+    "fineAmount": "55.00",
+    "fineAmountLength": "1",
+    "chargeDesc": "-4110011:Import, Transport, Sell, Purchase, Take Or Possess Black Bear/Elk/Parts Inconsistent With Rules Of The Code",
+    "docketCode": "XCM10",
+    "courtCostsBalanceDue": "94.50",
+    "pendingCostsLength": 5
+  }
+}
